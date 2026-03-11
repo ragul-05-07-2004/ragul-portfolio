@@ -92,17 +92,17 @@ const Scene = () => {
       };
 
       /* 🔧 FIXED TYPE HERE */
-      let debounce: ReturnType<typeof setTimeout> | undefined;
+let debounce: ReturnType<typeof setTimeout> | undefined;
 
-      const onTouchStart = (event: TouchEvent) => {
-        const element = event.target as HTMLElement;
+const onTouchStart = (event: TouchEvent) => {
+  const element = event.target as HTMLElement;
 
-        debounce = setTimeout(() => {
-          element?.addEventListener("touchmove", (e: TouchEvent) =>
-            handleTouchMove(e, (x, y) => (mouse = { x, y }))
-          );
-        }, 200);
-      };
+  debounce = setTimeout(() => {
+    element?.addEventListener("touchmove", (e: TouchEvent) =>
+      handleTouchMove(e, (x, y) => (mouse = { x, y }))
+    );
+  }, 200);
+};
 
       const onTouchEnd = () => {
         handleTouchEnd((x, y, interpolationX, interpolationY) => {
