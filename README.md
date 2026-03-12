@@ -1,16 +1,33 @@
-# My Portfolio Wesbite - Overview 🚀
+# 🌐 Personal Portfolio Website
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+This is my personal developer portfolio website where I showcase my projects, skills, and experience as a Full-Stack Developer.
 
-## Instructions 🛠️
+## 🚀 Live Website
+🔗 https://ragul-rajagopal-portfolio.vercel.app/
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## 👨‍💻 About Me
+I am a passionate developer who enjoys building web applications and solving real-world problems through code.  
+I work with modern web technologies and continuously improve my skills by building projects.
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## 🛠 Tech Stack
+- HTML
+- CSS
+- Typescript
+- React.js
+- Git & GitHub
 
-![Portfolio-Preview](public/images/preview.png)
+## 📂 Features
+- Responsive design
+- Modern UI
+- Project showcase
+- Contact section
+- Smooth animations
 
-## License
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/ragul-rajagopal/
+- GitHub:https://github.com/ragul-05-07-2004
+- Email: ragulrajagopal@gmail.com
 
-This project is open source and available under the [MIT License](LICENSE).
+---
+
+
