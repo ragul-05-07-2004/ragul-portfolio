@@ -15,6 +15,11 @@ I work with modern web technologies and continuously improve my skills by buildi
 - Typescript
 - React.js
 - Git & GitHub
+⭐ If you like this project, feel free to star the repository!
+
+## 📸 Portfolio Preview
+
+![ragul-portfolio](public/images/preview.png)
 
 ## 📂 Features
 - Responsive design
