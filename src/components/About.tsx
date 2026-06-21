@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer Intern at Teanso with experience building scalable web
-applications using React.js, Node.js, Express.js, and MongoDB. Skilled in
-developing full-stack applications, implementing authentication systems,
-and building responsive user interfaces. Passionate about creating
-high-performance web solutions and continuously learning modern technologies.
+          Full Stack Developer with internship experience at Teanso Technologies, where I contributed to the development of the MyPropAI real estate platform. Experienced in building responsive web applications using React.js and Next.js, developing and integrating REST APIs with Django, and managing PostgreSQL databases. Passionate about creating scalable, high-performance applications and continuously learning modern web technologies.
         </p>
       </div>
     </div>

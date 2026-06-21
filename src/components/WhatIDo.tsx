@@ -88,19 +88,19 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h4>Crafting Modern User Experiences</h4>
               <p>
-  Building responsive and interactive user interfaces using modern
-  technologies like React.js, HTML, CSS, and JavaScript. Focused on
-  creating clean, user-friendly designs and smooth user experiences
-  across different devices.
-</p>
+                Specializing in building scalable and responsive web applications
+                using React.js, Next.js.
+                Skilled in component-based development, API integration, state
+                management, and creating intuitive user experiences with clean and
+                maintainable code.
+              </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Next.js</div>
+                <div className="what-tags">Tailwind css</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -127,15 +127,15 @@ const WhatIDo = () => {
               <h3>BACKEND</h3>
               <h4>Scalable Server Architecture</h4>
               <p>
-  Developing scalable backend systems and RESTful APIs using Node.js,
-  Express.js, Mysql and MongoDB. From authentication systems to database
-  management and business logic, I build reliable backends that support
-  modern full-stack web applications.
-</p>
+                Developing scalable backend systems and RESTful APIs using Node.js,
+                Express.js, Mysql and MongoDB. From authentication systems to database
+                management and business logic, I build reliable backends that support
+                modern full-stack web applications.
+              </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Express.js</div>
+                <div className="what-tags">Django</div>
                 <div className="what-tags">MongoDB</div>
                 <div className="what-tags">PostgreSQL</div>
                 <div className="what-tags">REST APIs</div>
