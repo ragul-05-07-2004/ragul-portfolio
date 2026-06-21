@@ -4,18 +4,13 @@ import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
-  {
-    title: "Lost & Found Management System",
-    category: "Full Stack Web Application",
-    tools: "React.js • Node.js • Express.js • MongoDB",
-    image: "/images/lostfound.png",
-  },
-  {
-    title: "URL Shortener",
-    category: "Full Stack Web Application",
-    tools: "React.js • Node.js • Express.js • MongoDB",
-    image: "/images/urlshortener.png",
-  },
+  
+ {
+  title: "MyPropAI",
+  category: "Real Estate Platform",
+  tools: "Next.js • Django • PostgreSQL • REST APIs",
+  image: "/images/mypropai.png",
+},
   {
     title: "Image Background Remover",
     category: "Web Application",
